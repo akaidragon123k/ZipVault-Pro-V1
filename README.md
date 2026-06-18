@@ -15,8 +15,9 @@ Safety:
 ZipVault Pro organizes files. Always test on copied files before using your main ROM collection.
 
 
-<img width="692" height="369" alt="Image" src="https://github.com/user-attachments/assets/6b6962c6-68f4-40fb-a5b1-62981a18028d" />
-<img width="692" height="369" alt="Image" src="https://github.com/user-attachments/assets/433dab2f-faf8-4cfa-9c70-773f5a4c7d92" />
+<img width="691" height="369" alt="Image" src="https://github.com/user-attachments/assets/802aff5d-f086-4c55-bb50-360666b5296f" />
+
+<img width="692" height="369" alt="Image" src="https://github.com/user-attachments/assets/3bcc1ce9-61fb-4d6d-bbf5-a0011deb57dd" />
 
 
 
