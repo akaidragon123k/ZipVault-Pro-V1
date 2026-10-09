@@ -8,7 +8,9 @@
 
 ### [Download ZipVault Pro V1 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20V1.zip)
 
-### [Download ZipVault Pro V2 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v2.zip)\n\n### [Download ZipVault Pro V3 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v3.zip)
+### [Download ZipVault Pro V2 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v2.zip)
+
+### [Download ZipVault Pro V3 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v3.zip)
 
 **Versions 1 and 2 remain available** for users who want the older releases. **Version 3 is the current public release** and includes the built-in GitHub update system so future published versions can be installed from inside ZipVault Pro.
 
