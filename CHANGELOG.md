@@ -2,6 +2,22 @@
 
 This file tracks the public releases of ZipVault Pro.
 
+## Version 3
+
+Current public Windows release.
+
+### Version 3 highlights
+
+- Built-in **Update ZipVault Pro** support for future public releases
+- Updates are user-confirmed and never installed automatically
+- Staged public updates: ZipVault advances only to the next published version
+- Rollback backup is created before update files are replaced
+- Version 3 keeps its own feature set and does not include unreleased Version 4 changes
+
+# ZipVault Pro Changelog
+
+This file tracks the public releases of ZipVault Pro.
+
 ## Version 2
 
 Expanded Windows release of ZipVault Pro with additional organization, duplicate-management, cleanup, ZIP-health, preset, file-management, and customization tools.
