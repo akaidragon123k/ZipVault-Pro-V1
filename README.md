@@ -8,11 +8,28 @@
 
 ### [Download ZipVault Pro V1 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20V1.zip)
 
-### [Download ZipVault Pro V2 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v2.zip)
+### [Download ZipVault Pro V2 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v2.zip)\n\n### [Download ZipVault Pro V3 (.zip)](https://github.com/akaidragon123k/ZipVault-Pro-V1/raw/refs/heads/main/zipvault_pro%20v3.zip)
 
-**Version 1 remains available** for users who want the original release. **Version 2 is the newer release** and adds more organization, duplicate, cleanup, ZIP-health, preset, and file-management tools.
+**Versions 1 and 2 remain available** for users who want the older releases. **Version 3 is the current public release** and includes the built-in GitHub update system so future published versions can be installed from inside ZipVault Pro.
 
 No installer is required. Download the version you want, extract the ZIP, and run the included ZipVault Pro application.
+
+## Built-in Updates
+
+ZipVault Pro V3 introduces the built-in update system.
+
+- Updates are **never installed automatically**.
+- Use **Update ZipVault Pro** from the About page when you want to check.
+- ZipVault checks the official update manifest in this repository.
+- ZipVault advances only to the **next public version** that has actually been released.
+- Before replacing files, the updater creates a rollback backup under the Windows user's **ZipVault Pro Backups** folder.
+- If no newer public version is listed, V3 reports that it is up to date.
+
+The official manifest is:
+
+`updates/manifest.json`
+
+This means unpublished development versions are not offered to users.
 
 ## What ZipVault Pro Does
 
@@ -44,7 +61,7 @@ ZipVault Pro V2 keeps the core V1 workflow and expands it with additional tools,
 
 ## Quick Start
 
-1. Choose **ZipVault Pro V1** or **ZipVault Pro V2** from the download links above.
+1. Choose the ZipVault Pro version you want from the download links above. For the current public release, use **ZipVault Pro V3**.
 2. Extract the ZIP file to a folder on your computer.
 3. Keep `game title.zip` in the same folder as the application if the selected version uses it.
 4. Run the included ZipVault Pro application.
@@ -59,7 +76,7 @@ The downloadable packages include the ZipVault Pro Windows application and the s
 - `zipvault_icon.ico`
 - `zipvault_icon.png`
 
-Version 2 includes the Version 2 Windows application and its required supporting files.
+Version 2 includes the Version 2 Windows application and its required supporting files. Version 3 includes the Version 3 application, its required supporting files, and the built-in GitHub update system.
 
 ## Screenshots
 
@@ -105,6 +122,6 @@ If ZipVault Pro is useful to you, you can help other retro-gaming users find it:
 
 ## About This Repository
 
-This repository contains the public Windows releases of **ZipVault Pro V1 and V2**. Both downloads remain available so users can choose the original V1 release or the newer V2 release.
+This repository contains the public Windows releases of **ZipVault Pro V1, V2, and V3**. Older downloads remain available, while **V3 is the current public release**.
 
 ZipVault Pro is a Windows ROM organizer, ROM manager, retro-gaming utility, game-file organizer, ZIP organizer, duplicate-checking tool, ZIP-health tool, and ROM-collection utility.
