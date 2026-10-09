@@ -14,10 +14,6 @@ Current public Windows release.
 - Rollback backup is created before update files are replaced
 - Version 3 keeps its own feature set and does not include unreleased Version 4 changes
 
-# ZipVault Pro Changelog
-
-This file tracks the public releases of ZipVault Pro.
-
 ## Version 2
 
 Expanded Windows release of ZipVault Pro with additional organization, duplicate-management, cleanup, ZIP-health, preset, file-management, and customization tools.
